@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\bin\Debug\Kullanıcı-Giris-Ekranı.exe.config
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\bin\Debug\Kullanıcı-Giris-Ekranı.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\bin\Debug\Kullanıcı-Giris-Ekranı.pdb
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı-Giris-Ekranı.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı_Giris_Ekranı.Form1.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı_Giris_Ekranı.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı-Giris-Ekranı.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı-Giris-Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı-Giris-Ekranı.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Kullanıcı-Giris-Ekranı\Kullanıcı-Giris-Ekranı\obj\Debug\Kullanıcı-Giris-Ekranı.pdb
